@@ -306,8 +306,6 @@ plugin_about (MyPlugin *plugin)
                              _("Contributors:"),
                              "(c) 2008-2009 David Collins",
                              "(c) 2013 Christian Hesse",
-                             "(c) 2016 Simon Steinbeiß",
-                             "(c) 2016 Florian Schüller",
                              NULL, };
   const gchar *documenters[] = { "Mike Massonnet", NULL, };
   const gchar *license =
